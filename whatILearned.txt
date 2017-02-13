@@ -1,0 +1,4 @@
+I changed the text in the App.js is changing the text under the logo to hello world!
+I also added a small sentence right underneath. I changed the paragraph color in the .css file to red.
+I learned that it seems really easy to manipulate the page with the interconnected files that have been templated in 
+the react files.
