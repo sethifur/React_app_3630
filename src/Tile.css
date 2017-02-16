@@ -1,0 +1,14 @@
+.tile{
+	width:100%;
+	display:flex;
+}
+.tile figure{
+	flex:1;
+}
+.tile section{
+	flex:3;
+}
+
+.tile img{
+	width:100%;
+}
